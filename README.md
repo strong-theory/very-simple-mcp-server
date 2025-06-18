@@ -1,4 +1,4 @@
-# Very very simples MCP server with FastMCP and Vscode
+# Very very simple MCP server with FastMCP and Vscode
 
 ![](img/example.png)
 
