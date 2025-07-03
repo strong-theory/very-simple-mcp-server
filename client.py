@@ -1,6 +1,6 @@
 import asyncio
 from gemini import select_tool
-from fastmcp import Client, FastMCP
+from fastmcp import Client
 
 
 config = {
