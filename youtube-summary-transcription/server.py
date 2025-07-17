@@ -1,21 +1,22 @@
 from fastmcp import FastMCP
 from summarizer import summary
 from documentation import generate
+from transcript_downloader import download
 
 mcp = FastMCP("Starting mcp server...")
 
 @mcp.tool
-def get_transcription_from_video(video_url: str) -> str:
+def get_transcription_from_video(video_id: str) -> str:
     """
-    Através da url de umvideo do youtube, retorna a transcrição desse video.
+    Através do id de video do youtube, retorna a transcrição desse video.
+    Exemplo: https://youtu.be/uvubLp5o5Wg?t=275, para essa url o video_id é uvubLp5o5Wg, ou seja,
+    o video_id é o parametro v= da url quando a url é https://www.youtube.com/watch?v=uvubLp5o5Wg.
+    Ou apenas depois do / quando a url é encurtada.
     """
 
     print("### chamando get_transcription_from_video ###")
 
-
-    with open("transcription.txt", "r") as file:
-        return file.read()
-    return None
+    return download(video_id)
 
 
 @mcp.tool

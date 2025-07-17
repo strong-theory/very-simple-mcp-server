@@ -5,3 +5,4 @@ langchain_google_genai
 asyncio
 google.genai
 fastmcp
+youtube-transcript-api
