@@ -4,5 +4,5 @@ langchain_mcp_adapters
 langgraph
 asyncio
 langchain_google_genai
-dotenv
+python-dotenv
 google.genai

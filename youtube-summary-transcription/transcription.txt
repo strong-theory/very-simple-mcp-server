@@ -1,0 +1,343 @@
+Transcrição
+
+
+Procurar no vídeo
+0:00
+Thank you to Surfshark VPN for supporting PBS.
+0:03
+Spacetime on its smallest scales is a  seething ocean of black holes and wormholes  
+0:07
+flickering into and out of existence—or  so many physicists think has to be the  
+0:12
+case. But why should we take this spacetime foam  seriously if we’ve never seen any evidence of it?
+0:24
+A while ago we started talking about the  fundamentalness of space—is it the most  
+0:29
+elementary stage that holds all of the complexity  of physics? Or is it just the way our brains make  
+0:35
+sense of something that’s nothing like the space  of our experience. Well, we have good reason to at  
+0:40
+least doubt that the fundamental building block  of space is just more space. And that’s because  
+0:46
+our best theory of the nature of space—Einstein’s  general theory of relativity—is incomplete. It  
+0:51
+comes into severe conflict with the other great  pillar of modern physics: quantum mechanics.
+0:56
+We’ve spoken in the past about the source of  this conflict, and about some of the speculative  
+1:02
+solutions such as string theory and loop quantum  gravity. In both of these theories, space gives  
+1:08
+way to something rather different—something  more fundamental at the tiniest scales.  
+1:13
+But these theories have proved damnably difficult  to test, and so we can’t say what the most  
+1:19
+elementary building block of space really is. But  that doesn’t mean we can’t say something about  
+1:24
+what space looks like at close to the smallest  scales. By using a little logical deduction,  
+1:31
+we can combine general relativity and  quantum mechanics just well enough to  
+1:36
+trick nature into giving us an answer. And  that answer is that spacetime is … foamy.
+1:43
+It was John Archibald Wheeler who worked  this one out. Wheeler was a central figure  
+1:47
+in the development of both general relativity  and quantum mechanics, and adviser to Richard  
+1:52
+Feynman and Hugh Everett and Kip Thorne and many  many others. Here’s the analogy that Wheeler came  
+1:58
+up with to describe his conclusions about the  minutest scales of the fabric of spacetime.
+2:03
+Imagine you're flying in a plane over the Atlantic  ocean. From a regular cruising altitude, looking  
+2:09
+down, the surface of the ocean appears smooth  and relatively featureless. But, if your plane  
+2:15
+lowered its altitude and got closer you may start  to see the waves—from here just tiny disturbances  
+2:22
+in the surface of the water. But if you got  even close, perhaps on a large ship sailing  
+2:28
+through the waters you'd see the foam and white  caps of waves forming and breaking, and you’d  
+2:33
+feel their effect on your motion. And if you’re  in a rowboat the wave would be everything—you’d  
+2:41
+be moving through a space that was far from flat,  but rather dominated by ever changing geometries.
+2:48
+In this analogy, the 2-D surface of  the ocean is 3-dimensional space.  
+2:52
+For large creatures like us humans,  we’re flying high above and see smooth,  
+2:57
+flat, and perfectly continuous spatial dimensions.  But “descending” closer to the Planck scale,  
+3:04
+we would see ubiquitous tiny fluctuations as  distances and geometries became warped. And at  
+3:11
+the Planck scale, spacetime would become  so curved that black holes and wormholes  
+3:15
+would be popping into existence, only to vanish  again—as if our ocean were now violently boiling.
+3:21
+This is Wheeler’s “spacetime foam’’, and  there’s good reason to think that spacetime  
+3:26
+really does look like this when you’re close to  the smallest scales—regardless of your preferred  
+3:31
+theory of quantum gravity. We need the latter  to say what spacetime is made of—to understand  
+3:36
+the analogous level of the water molecules in  our ocean. However, the behavior of a quantum  
+3:43
+spacetime just above that level can perhaps be  understood regardless of its underlying theory,  
+3:47
+just as we can describe the behavior  of water without knowing its chemistry.
+3:51
+Today we’re going to see where the  idea of spacetime foam came from,  
+3:54
+and also how it might be  tested. Now we'll do this by
+3:59
+combining two of the fundamental ideas in  each theory of the fundamental theories the  
+4:04
+uncertainty of quantum mechanics and  the geometry of general relativity.  
+4:08
+Because spacetime foam is what you get  when geometry itself becomes uncertain.
+4:15
+Let’s start with the bit about uncertainty.  The Heisenberg uncertainty principle is  
+4:19
+one of the foundational concepts in quantum  mechanics. One version tells us that we can’t  
+4:24
+simultaneously know both the position and the  momentum of a particle to arbitrary precision.  
+4:30
+The product of their uncertainties will always  be larger than a particular very small number.
+4:36
+This is a very deep relationship that we get  into in detail in this episode. But let me  
+4:42
+also remind you of a simpler way to think  about the Heisenberg uncertainty principle  
+4:47
+that we covered more recently—the Heisenberg  microscope. Imagine you try to measure the  
+4:52
+position of an object by bouncing a photon  off it. You’ll get a more precise position  
+4:57
+measurement with a shorter wavelength photon.  That photon will transfer some of its momentum  
+5:02
+to the object, as will any measurement  attempt. The shorter the wavelength,  
+5:06
+the more momentum the photon can transfer.  So the more precisely you measure position,  
+5:11
+the less certain you become about  the final momentum of the object.
+5:15
+But there’s a limit to the precision  of our position measurement, even if  
+5:19
+we’re happy with absolute uncertainty in momentum.  
+5:22
+That limit is a consequence of us bringing general  relativity into the picture. GR tells us that mass  
+5:28
+and energy changes the geometry of space. This  is described by the Einstein field equations,  
+5:34
+with the mass-energy content of space completely  determining the geometry of that space.
+5:40
+So as our measuring photon gains  momentum and therefore energy,  
+5:44
+it introduces uncertainty into the geometry  of space between you and the object,  
+5:49
+which increases our uncertainty in the distance to  the object. So as the photon gets more energetic,  
+5:57
+the Heisenberg uncertainty goes down but the  uncertainty in the geometry goes up. They equal  
+6:04
+each other when the uncertainty is equal to the  Planck length, which is a tiny 1.6x10^-35 meters.  
+6:12
+So the absolute limit of our ability to  pinpoint objects in space is the Planck length.  
+6:18
+But what does that mean for the  structure of space on that scale?
+6:23
+Let’s say we now want to measure the size of  a little block of space. The measuring photon  
+6:28
+needs to have a wavelength at least  smaller than the width of that block.  
+6:33
+That photon also warps our chunk of space. The  Einstein field equations bv can tell us roughly  
+6:39
+when the introduced curvature is equal to the  size of the space we’re trying to measure.  
+6:44
+It turns out that if we try to measure the size  of a 1-Planck-length block of space, the curvature  
+6:50
+introduced is equal to a Planck length. We  can express our curvature uncertainty with  
+6:57
+a new version of the uncertainty principle that  combines quantum mechanics and general relativity.
+7:03
+Here we have our first glimpse of the spacetime  foam. As we peer closer and closer at the fabric  
+7:09
+of spacetime, we see that its curvature at  any point becomes more and more variable;  
+7:15
+its geometry more uncertain,  until the curvature dominates.  
+7:20
+What does that mean? Well, geometries that have a  radius of curvature similar to their size include  
+7:26
+spheres, cylinders, and black holes. So those are  the geometries that emerge at the Planck scale.  
+7:34
+Space at that scale curves completely back  on itself, infinitesimal black holes appear,  
+7:40
+and wormholes connect nearby regions. But such  Planck scale black holes would likely rapidly  
+7:47
+evaporate due to Hawking radiation and the  wormholes would be unstable and collapse in  
+7:52
+a very short amount of time. The quantum foam  is as transitory as any quantum fluctuation.
+7:58
+To better understand the dynamics of  the spacetime foam, let’s think about  
+8:02
+quantum fluctuations. For that it’s  helpful to turn to the other popular  
+8:07
+version of the Heisenberg uncertainty  principle, which tells us that we can’t  
+8:11
+simultaneously know both the energy  and the time or duration of an event.
+8:17
+So if you try to measure the energy  of a system at a very precise time,  
+8:23
+or over a very short duration, then your  energy measurement becomes highly uncertain.  
+8:29
+But if energy can be fundamentally  uncertain, that means there can  
+8:33
+be a fundamental uncertainty in the physical  contents of the universe. To understand that,  
+8:39
+let me give you a quick refresher on our best  theory of stuff in the universe. Quantum field  
+8:44
+theory and in particular the standard model of  particle physics nicely describes all matter and  
+8:49
+3 of the 4 forces as excitations in different  quantum fields that permeate all of space.
+8:55
+But because of the time-energy uncertainty  principle, we can never know the exact energy  
+9:01
+present in a particular patch of space. We can’t  even know that the energy is precisely zero even  
+9:07
+in the complete absence of real particles. What  should be a complete vacuum might be observed to  
+9:14
+have non-zero energy, and that becomes more likely  the shorter the timescale of our observation.  
+9:20
+This manifests as an underlying buzz of rapid  energy fluctuations in the quantum vacuum.  
+9:27
+This is sometimes described as an ocean of  virtual particles constantly appearing and  
+9:31
+vanishing, although it’s way more complicated than  that. Now, this isn’t quite our spacetime foam,  
+9:37
+because it says nothing about the shape  of the fabric of spacetime on its own.
+9:41
+But let’s bring general relativity back  into it. This fluctuating energy of the  
+9:46
+vacuum can be thought of as an uncertainty  in whatever’s sitting on the right side  
+9:51
+of the Einstein equations. The mass-energy  content of a tiny chunk of space is uncertain,  
+9:56
+so the corresponding geometry should be uncertain  also. If we think about this in terms of virtual  
+10:04
+particles, then every time one appears, we should  see an accompanying tiny gravitational field that  
+10:09
+lasts just for an instant. But because these  quantum fluctuations are extremely complex and  
+10:15
+constantly changing, the effect on the geometry  of space is also complex and ever-changing.  
+10:20
+Virtual particles aren’t even restricted to the  normal rules that real particles have—for example,  
+10:25
+negative masses —which means exotic  objects like wormholes can appear and  
+10:31
+vanish amid the general roiling mess  of spacetime at the Planck scale.
+10:35
+And because these quantum fluctuations are  actually in a superposition of many different  
+10:40
+states, we need to think of the geometry  of spacetime as also being in a quantum  
+10:45
+superposition at that scale. Many, and perhaps  every possible geometry exists simultaneously.  
+10:53
+What we see on the macroscopic  scale is the washed out sum of  
+10:57
+all Planck-scale configurations—and  it ends up conveniently nice and flat.
+11:02
+We can think of the quantum foam as  being due to an intrinsic uncertainty  
+11:07
+in either the stuff space contains or  in the geometry of spacetime itself.  
+11:12
+These are two ways to get at the same conclusion:  as long as the uncertainty principle holds in some  
+11:18
+reasonable way for gravity, then on the Planck  scale the fabric of spacetime should be foamy.
+11:24
+So now we have a picture of what space might look  like on scales well below our experience, or even  
+11:29
+below the experience of atoms or nuclei. How do we  test this? If the standard picture is right, then
+11:35
+quantum fluctuations of spacetime only  become significant near the Planck scale,  
+11:40
+which is far, far smaller than any of our  direct probes of spacetime structure—and  
+11:45
+that’ll probably be the case until we’re  a super-advanced galactic civilization.
+11:50
+But indirect tests are possible now. Remember  Wheeler’s analogy of spacetime foam as a choppy  
+11:58
+ocean surface. A gigantic ship doesn’t  notice the waves, but a rowboat does. A  
+12:03
+vessel in between may have a relatively smooth  ride, but might be deflected or impeded over  
+12:10
+time on a wavy ocean versus a still one. If  spacetime foam is real, then we might expect  
+12:16
+a particle traveling very long distances  to experience a slight shift in its course.
+12:22
+And we can test this with a surprisingly  simple experiment. A distant point of  
+12:27
+light can produce diffraction patterns, for  example these diffraction spikes and airy rings
+12:33
+if we observe through a telescope aperture or  diffraction fringes through a pair of slits. Those  
+12:41
+patterns are due to individual photons interfering  with themselves after interacting with the gap.  
+12:48
+Photons that reach us traveling in the same  direction will experience the same interference.  
+12:55
+By catching many such photons, we slowly  build up a single interference pattern.  
+13:01
+But two photons coming at even slightly  different angles will land on our  
+13:05
+detector according to different interference  patterns. If we look at many such photons,  
+13:10
+those different patterns will be overlaid  on each other and result in just a blur.
+13:16
+That’s why we see diffraction spikes  around stars in Hubble or even JWST images,  
+13:23
+but we only see a blurry blob from even our best  ground-based telescopes. In the latter case,  
+13:29
+light from the star is bounced around by our  atmosphere so that it arrives traveling in  
+13:35
+slightly different directions. Well, if spacetime  is foamy then we might expect a similar effect  
+13:41
+for light arriving from very great distances.  Stars in our own galaxy are not far enough away,  
+13:48
+but some objects like quasars and gamma ray  bursts can be billions of light years distant.
+13:54
+A number of studies have tried to detect the  effect of spacetime foam on the diffraction  
+13:59
+patterns of distant objects in Hubble Space  Telescope data. Hubble is particularly good  
+14:05
+because it’s very sensitive to ultraviolet  light—a short wavelength light that should  
+14:09
+be more influenced by a turbulent spacetime  fabric compared to, say, the long-wavelength  
+14:15
+infrared light that JWST is sensitive to. So  far the best these studies have been able to  
+14:20
+do is to rule out certain models which produce a  particularly strong spacetime foam. But some of  
+14:25
+the measurements are tantalizingly close to  the needed sensitivity, so perhaps a bigger  
+14:31
+ultra-violet-sensitive space telescope will be  able to detect this effect. More work is needed.
+14:37
+Only then could we really be  sure that a tempestuous ocean  
+14:41
+of uncertain geometries underlies  our deceptively placid spacetime.
+14:46
+Thank you to Surshark VPN for supporting PBS.  Surfshark VPN is a virtual private network that  
+14:52
+keeps your online identity safe by encrypting  all of the information sent between your  
+14:56
+device and the internet. Using a VPN when using  public wifi can help you more safely surf the  
+15:02
+internet, but it’s also very useful when you’re  working from home. A lot of online services use  
+15:05
+sophisticated targeting and tracking services,  but a VPN can protect you from that. Surfshark’s  
+15:12
+CleanWeb feature blocks ads, trackers, malware  and phishing attempts making the internet safer  
+15:16
+while you work from home. And if you do a lot of  international traveling like I have, Surfshark  
+15:19
+allows you to change your virtual location.  It has over 3200 servers in more than 100  
+15:24
+countries meaning you never have to miss out on  your home country’s features while traveling.  
+15:29
+To learn more go to Surfshark.deals/spacetime  or click the link in the description.
+

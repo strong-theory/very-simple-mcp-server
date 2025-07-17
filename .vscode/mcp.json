@@ -2,6 +2,9 @@
     "servers": {
         "weather-mcp": {
             "url": "http://127.0.0.1:9000/clima/"
+        },
+        "youtube-summarizer": {
+            "url": "http://localhost:9000/youtube-summaryzer/"
         }
     }
 }

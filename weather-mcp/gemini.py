@@ -3,7 +3,6 @@ import dotenv
 from typing import Any
 from google import genai
 from google.genai import types
-from mcp.client.stdio import stdio_client
 
 dotenv.load_dotenv()
 

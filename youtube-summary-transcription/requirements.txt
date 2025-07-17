@@ -1,0 +1,7 @@
+python-dotenv
+langgraph
+langchain-mcp-adapters
+langchain_google_genai
+asyncio
+google.genai
+fastmcp
