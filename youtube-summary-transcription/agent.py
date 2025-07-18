@@ -10,7 +10,7 @@ from google import genai
 load_dotenv()
 
 
-model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", )
+model = ChatGoogleGenerativeAI(model="gemini-2.0-flash-lite", )
 
 
 client = streamablehttp_client("http://localhost:9000/youtube-summaryzer")

@@ -31,7 +31,7 @@ async def select_tool(prompt: str, mcp_tools: Any):
     # Remove debug prints
 
     response = client.models.generate_content(
-        model="gemini-2.0-flash",
+        model="gemini-2.0-flash-lite",
         contents=prompt,
         config=types.GenerateContentConfig(
             temperature=0,
