@@ -12,9 +12,10 @@ def get_transcription_from_video(video_id: str) -> str:
     Exemplo: https://youtu.be/uvubLp5o5Wg?t=275, para essa url o video_id é uvubLp5o5Wg, ou seja,
     o video_id é o parametro v= da url quando a url é https://www.youtube.com/watch?v=uvubLp5o5Wg.
     Ou apenas depois do / quando a url é encurtada.
+    Se for um shorts o video_id fica depois do shorts/ https://www.youtube.com/shorts/fI6YJYgvj8s
     """
 
-    print("### chamando get_transcription_from_video ###")
+    print(f"### chamando get_transcription_from_video {video_id} ###")
 
     return download(video_id)
 
@@ -27,12 +28,12 @@ def summaryze_transcription(transcription: str, user_input: str | None) -> str:
     gerar o resumo.
     O user_input não é obrigatorio. Caso nao seja informado será gerado um resumo basico.
     """
-    print("### chamando summaryze_transcription ###")
+    print(f"### chamando summaryze_transcription with input {user_input} ###")
     return summary(transcription, user_input)
 
 
 @mcp.tool
-def create_documentation_from_sumarry(sumarry: str, user_input: str | None, file_path: str) -> str:
+def create_documentation_from_summary(sumarry: str, user_input: str | None, file_path: str) -> str:
     """
     Pega o resumo e transforma em um arquivo markdown.
     O campo user_input pode ser detalhes adicionais que o usuario selecionou para
@@ -40,7 +41,7 @@ def create_documentation_from_sumarry(sumarry: str, user_input: str | None, file
     Salva a documentação no filesystem definida na variavel file_path.
     """
     
-    print("### chamando create_documentation_from_sumarry ###")
+    print(f"### chamando create_documentation_from_summary with {user_input} e {file_path} ###")
 
     return generate(sumarry, user_input, file_path)
 
