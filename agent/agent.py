@@ -3,7 +3,7 @@ from llm import ChatStackSpot
 from dotenv import load_dotenv
 from langgraph.prebuilt import create_react_agent
 from langchain_core.tools import tool
-from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
+
 
 load_dotenv()
 
@@ -11,6 +11,7 @@ load_dotenv()
 @tool
 def download_open_api(api_name: str) -> str:
     """Download the OpenAPI specification for a given API name. and return its content."""
+    print("Chamando a tool download_open_api com o nome:", api_name)
     with open("./openapi.json", "r") as file:
         return file.read()
     return "text"
@@ -18,7 +19,7 @@ def download_open_api(api_name: str) -> str:
 
 async def main():
     tools = [download_open_api]
-    model = ChatStackSpot(tools=tools, streaming=False)
+    model = ChatStackSpot()
     model = model.bind_tools(tools)
     agent = create_react_agent(model, tools)
 
@@ -51,7 +52,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-# from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 
-# response = model.invoke([HumanMessage(content="Olá, tudo bem?")])
-# print(response.content)

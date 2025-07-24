@@ -1,19 +1,18 @@
-from typing import Any, Dict, Iterator, List, Optional
-
-from langchain_core.language_models import SimpleChatModel, BaseChatModel
-from langchain_core.callbacks import CallbackManagerForLLMRun
-from langchain_core.messages import AIMessage, AIMessageChunk, BaseMessage, HumanMessage
-from langchain_core.outputs import ChatGeneration, ChatGenerationChunk, ChatResult
-from langchain_core.messages.ai import UsageMetadata
-from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
-
-from pydantic import Field
 import os
 import json
 import dotenv
 import requests
+from pydantic import Field
+from typing import Any, Dict, Iterator, List, Optional
+from langchain_core.messages.ai import UsageMetadata
+from langchain_core.language_models import BaseChatModel
+from langchain_core.callbacks import CallbackManagerForLLMRun
+from langchain_core.outputs import ChatGeneration, ChatGenerationChunk, ChatResult
+from langchain_core.messages import AIMessage, AIMessageChunk, BaseMessage, SystemMessage
+
 
 dotenv.load_dotenv()
+
 
 def get_token():
     headers = {"Content-Type": "application/x-www-form-urlencoded"}
@@ -25,6 +24,7 @@ def get_token():
     response = requests.post(os.getenv("STK_LOGIN_URL"), headers=headers, data=data)
     response.raise_for_status()
     return response.json().get("access_token")
+
 
 def chat_stackspot_stream(user_prompt: str) -> Iterator[str]:
     headers = {
@@ -118,13 +118,13 @@ class ChatStackSpot(BaseChatModel):
                 llm_output={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}}
             )
         self.total_calls += 1
-        print("calling +1")
+
         return ChatResult(
             generations=[
                 ChatGeneration(
                     generation_info={'finish_reason': 'STOP', 'model_name': 'stackspot-ai', 'safety_ratings': []},
                     message=AIMessage(
-                        content='',
+                        content=output,
                         additional_kwargs={'function_call': {'name': 'download_open_api', 'arguments': '{"api_name": "AOtUo25GB3c"}'}},
                         response_metadata={},
                         tool_calls=[
@@ -141,6 +141,7 @@ class ChatStackSpot(BaseChatModel):
             ],
             llm_output={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}}
         )
+
 
     def _stream(
         self,
