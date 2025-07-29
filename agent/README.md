@@ -2,6 +2,8 @@
 
 criar .env
 
+pip install -r requirements.txt --only-binary :all: ./
+
 ```properties
 STK_LOGIN_URL = "https://idm.stackspot.com/stackspot-freemium/oidc/oauth/token"
 STK_AI_URL= "https://genai-code-buddy-api.stackspot.com/v3/chat"

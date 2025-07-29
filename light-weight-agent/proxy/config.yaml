@@ -1,0 +1,12 @@
+model_list:
+  - model_name: "stackspot-chat"
+    litellm_params:
+      model: "my-custom-llm/stackspot-chat"
+
+litellm_settings:
+  custom_provider_map:
+    - provider: "my-custom-llm"
+      custom_handler: custom_handler.stackspot_llm
+  python_filename: custom_handler.py
+  custom_handler_instance_name: stackspot_llm
+  # callbacks: custom_callbacks.proxy_handler_instance
